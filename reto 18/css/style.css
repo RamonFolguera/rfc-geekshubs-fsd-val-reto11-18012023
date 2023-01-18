@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding; 0;
+    
+
+}
+#mainContainer {
+    width: 500px;
+    height:100vh;
+    margin: 0 auto;
+}
+#anterior {
+    background-image: url(../img/f02.png), url(../img/f01.png), url(../img/f03.png);
+    background-color: skyblue;
+    background-position: 0, bottom, top;
+    background-position-x: 0, 0, 25px;
+    background-size: 310px, 50px;
+    background-repeat: no-repeat, repeat-x, no-repeat;
+    width: 280px;
+    height: 140px;
+    border: 2px solid blue;
+}
+
+#medio {
+    background-image: url(../img/f02.png), url(../img/f01.png), url(../img/f03.png);
+    background-color: skyblue;
+    background-position: bottom, bottom, top;
+    background-position-x: 0, 0, 25px;
+    background-size: 310px, 50px;
+    background-repeat: no-repeat, repeat-x, repeat-x;
+    width: 400px;
+    height: 350px;
+    border: 5px solid red;
+    margin: 20px 0 20px 40px;
+}
+
+
+#posterior {
+    background-image: url(../img/f02.png), url(../img/f01.png), url(../img/f03.png);
+    background-color: skyblue;
+    background-position: 0, bottom, top;
+    background-position-x: 0, 0, 25px;
+    background-size: 310px, 50px;
+    background-repeat: no-repeat, repeat-x, no-repeat;
+    width: 280px;
+    height: 140px;
+    border: 2px solid blue;
+}
