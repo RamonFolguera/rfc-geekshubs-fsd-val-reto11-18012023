@@ -4,8 +4,9 @@ body {
 
 
 table {
-    border: solid black 1px;
-    border-style:outset;
+    border: solid black 15px;
+    border: outset;
+    background-color: rgb(81, 212, 242);
     
     
 }
@@ -13,11 +14,13 @@ table {
 #rowHead {
     background-color: rgb(7, 40, 7);
     color: white;
+    
 }
 
 
 .row-1 {
     background-color: rgb(184, 255, 184);
+   
     
     
 }
@@ -28,6 +31,8 @@ table {
 
 td {
     width: 120px;
+    b
+    
     
     
 }
