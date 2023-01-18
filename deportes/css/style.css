@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+
+table {
+    border: solid black 1px;
+    border-style:outset;
+    
+    
+}
+
+#rowHead {
+    background-color: rgb(7, 40, 7);
+    color: white;
+}
+
+
+.row-1 {
+    background-color: rgb(184, 255, 184);
+    
+    
+}
+
+.row-2 {
+    background-color: rgb(83, 193, 83);
+}
+
+td {
+    width: 120px;
+    
+    
+}
