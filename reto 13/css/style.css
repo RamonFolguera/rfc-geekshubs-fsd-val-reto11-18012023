@@ -21,8 +21,8 @@ h1 {
     text-align: center;
     margin-bottom: 0;
     font-size: 20px;
-    font-weight: -500px;
 }
+
 td, th {
     border: 1px solid black;
     box-shadow: 1px 1px inset #888888;
