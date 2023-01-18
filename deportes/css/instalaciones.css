@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+
+table {
+    border: solid black 15px;
+    border: outset;
+    background-color: rgb(81, 212, 242);
+    
+    
+}
+
+#rowHead {
+    background-color: rgb(7, 40, 7);
+    color: rgb(189, 250, 238);
+    
+}
+
+
+.row-1 {
+    background-color: rgb(184, 255, 184);
+}
+
+.row-2 {
+    background-color: rgb(83, 193, 83);
+   
+}
+
+th {
+    width: 150px;
+   
+}
+
+.euros {
+    text-align: center;
+}
