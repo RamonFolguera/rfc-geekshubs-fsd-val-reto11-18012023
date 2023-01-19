@@ -13,11 +13,13 @@ body {
 #background {
     background-image: url(../img/pinguino-rey-aptenodytes-patagonicus_9f24d50b_800x800.jpg);
     background-repeat: no-repeat;
-    height: 650px;
-    width: 700px;
+    background-position: center;
+    height: 95vh;
+    width: 70vw;
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 
